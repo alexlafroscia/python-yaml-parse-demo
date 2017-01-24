@@ -1,0 +1,10 @@
+description: >
+  This is a level! Something silly is probably going to happen.
+
+
+  What would you like to do?
+options:
+  - description: Here is one thing you could do!
+    next_level: 2
+  - description: Here is another thing you could do!
+    next_level: 3
